@@ -77,19 +77,16 @@ function App(): JSX.Element {
             backgroundColor: Colors.grey,
           }}>
           <Section title="Nama">
-            Mutia Marhatika
+            Hospital In Your Area
           </Section>
-          <Section title="Pendidikan">
-            Departemen Teknologi Kebumian, Sekolah Vokasi, Universitas Gadjah Mada
+          <Section title="Latar Belakang">
+          HIYA merupakan sebuah aplikasi yang dapat digunakan untuk melihat persebaran titik rumah sakit di Kabupaten Sukoharjo yang dapat memberikan informasi terkait nama, alamat, jenis rumah sakit, serta rute untuk menunjukkan rumah sakit terdekat dari lokasi. Latar belakang pembuatan HIYA adalah untuk mengetahui lokasi dan jenis rumah sakit yang ada di Kabupaten Sukoharjo karena wilayah Kabupaten Sukoharjo berbatasan secara langsung dengan kabupaten lain. Rancunya lokasi dan penamaan rumah sakit menjadi alasan utama dibuatnya aplikasi HIYA.
           </Section>
-          <Section title="Nomor Induk Mahasiswa">
-            21/478514/SV/19323
+          <Section title="Komponen Aplikasi">
+          React Native, HTML dan JS, Leaflet JS, Spreadsheet, App Script, FontAwesome 5, GitHub
           </Section>
-          <Section title="Kelas">
-            PGPBL A 
-          </Section>
-          <Section title="Tentang Saya">
-          Saya seorang mahasiswa program studi Sistem Informasi Geografis yang menyukai bidang kepenulisan
+          <Section title="Sumber Data">
+          Data Titik Koordinat Rumah Sakit (Maps), Icon (Font Awesome5), Link Website Setiap Rumah Sakit 
           </Section>
         </View>
       </ScrollView>
