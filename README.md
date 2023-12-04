@@ -1,83 +1,40 @@
-<<<<<<< HEAD
-# HIYA
-=======
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# NAMA APLIKASI HIYA
+HOSPITAL IN YOUR AREA (HIYA)
 
-# Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+# Deskripsi Aplikasi
+HIYA merupakan sebuah aplikasi yang dapat digunakan untuk melihat persebaran titik rumah sakit di Kabupaten Sukoharjo yang dapat memberikan informasi terkait nama, alamat, jenis rumah sakit, serta rute untuk menunjukkan rumah sakit terdekat dari lokasi. Latar belakang pembuatan HIYA adalah untuk mengetahui lokasi dan jenis rumah sakit yang ada di Kabupaten Sukoharjo karena wilayah Kabupaten Sukoharjo berbatasan secara langsung dengan kabupaten lain. Rancunya lokasi dan penamaan rumah sakit menjadi alasan utama dibuatnya aplikasi HIYA.
 
-## Step 1: Start the Metro Server
+## Komponen Aplikasi
+1. React Native
+2. HTML dan JS
+3. Leaflet JS
+4. Spreadsheet
+5. App Script
+6. FontAwesome 5
+7. GitHub
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
 
-To start Metro, run the following command from the _root_ of your React Native project:
+## Sumber Data
+1. Data Titik Koordinat Rumah Sakit (Maps)
+2. Icon (Font Awesome5)
+3. Link Website Setiap Rumah Sakit
 
-```bash
-# using npm
-npm start
+### Printscreen Komponen Penting Aplikasi
+### Tab Map
+![image](https://github.com/mutiamarhatika/HIYA/assets/142763567/bf43ecb8-862b-46ab-adf4-6503a7893944)
 
-# OR using Yarn
-yarn start
-```
+### Tab Address
+![image](https://github.com/mutiamarhatika/HIYA/assets/142763567/56d2ba52-1457-4428-9063-7c9ab7612584)
 
-## Step 2: Start your Application
+### Tab Direction
+![image](https://github.com/mutiamarhatika/HIYA/assets/142763567/4aeb3263-abc3-4a54-90a4-4d1310e963b7)
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+### Tab Add Data
+![image](https://github.com/mutiamarhatika/HIYA/assets/142763567/f11c3cc8-26bd-42fb-8305-aef9ba11609e)
 
-### For Android
+### Tab Profile
+![image](https://github.com/mutiamarhatika/HIYA/assets/142763567/8af55458-80a0-49ac-b4fd-b9ba3c464f2f)
 
-```bash
-# using npm
-npm run android
 
-# OR using Yarn
-yarn android
-```
 
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
->>>>>>> 64d0743 (first commit)
