@@ -1,0 +1,47 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Mutia",
+      "nim": "21/478514/SV/19323",
+      "kelas": "A",
+      "icon": "landmark",
+      "color": "#FF0000"
+    },
+    {
+      "nama": "muti",
+      "nim": "21/478514/SV/19323",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "color": "blue",
+      "icon": "yin-yang",
+      "id": 15
+    },
+    {
+      "nama": "oz",
+      "nim": "123",
+      "kelas": "b",
+      "jeniskelamin": "laki",
+      "color": "#FF00FF",
+      "icon": "user",
+      "id": 32
+    },
+    {
+      "nama": "Muti4",
+      "nim": "21/478514/SV/19323",
+      "kelas": "A",
+      "icon": "headphone",
+      "color": "#FF0000",
+      "id": 34
+    },
+    {
+      "nama": "Mutia ",
+      "nim": "12345",
+      "kelas": "c",
+      "jeniskelamin": "perempuan",
+      "color": "blue",
+      "icon": "landmark",
+      "id": 35
+    }
+  ]
+}

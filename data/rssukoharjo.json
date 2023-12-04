@@ -1,0 +1,79 @@
+[
+  {
+    "nama": "RS PKU Muhammadiyah Kartasura",
+    "jenis": "RS Umum",
+    "alamat": "Jl. Slamet Riyadi No.6, Dusun III, Pucangan, Kartasura",
+    "icon": "hospital-symbol",
+    "color": "#B31312"
+  },
+  {
+    "nama": "RS Universitas Negeri Sebelas Maret",
+    "jenis": "RS Umum",
+    "alamat": "Jl. A. Yani No. 200, Dusun II, Makamhaji, Kartasura",
+    "icon": "hospital-symbol",
+    "color": "#B31312"
+  },
+  {
+    "nama": "RS Karima Utama",
+    "jenis": "RS Khusus",
+    "alamat": "Jl. Amarta No. 8-10, Area Sawah, Ngabeyan, Kartasura",
+    "icon": "h-square",
+    "color": "#2B2A4C"
+  },
+  {
+    "nama": "RS Orthopedi Dr.Soeharso",
+    "jenis": "RS Khusus",
+    "alamat": "Jl. A.Yani No. 157, Mendungan, Kartasura",
+    "icon": "h-square",
+    "color": "#2B2A4C"
+  },
+  {
+    "nama": "RSI Yarsis",
+    "jenis": "RS Umum",
+    "alamat": "Jl. A. Yani, Pabelan, Kartasura",
+    "icon": "hospital-symbol",
+    "color": "#B31312"
+  },
+  {
+    "nama": "RS Dr.Oen Solo Baru",
+    "jenis": "RS Umum",
+    "alamat": "Komplek Perumahan Solo Baru, Jl. Djlopo, Dusun II, Grogol",
+    "icon": "hospital-symbol",
+    "color": "#B31312"
+  },
+  {
+    "nama": "RS Indriati",
+    "jenis": "RS Umum",
+    "alamat": "Jl. Palem Raya, Dusun III, Langenharjo, Solo Baru",
+    "icon": "hospital-symbol",
+    "color": "#B31312"
+  },
+  {
+    "nama": "RSKIA Permata Trinutama",
+    "jenis": "RS Khusus",
+    "alamat": "Jl. Veteran No. 2A, Bekonang, Mojolaban",
+    "icon": "h-square",
+    "color": "#2B2A4C"
+  },
+  {
+    "nama": "RS Nirmala Suri",
+    "jenis": "RS Khusus",
+    "alamat": "Jalan Raya Solo, Ngepeng, Sidorejo, Bendosari",
+    "icon": "h-square",
+    "color": "#2B2A4C"
+  },
+  {
+    "nama": "PKU Muhammadiyah Sukoharjo",
+    "jenis": "RS Umum",
+    "alamat": "Jl. Mayor Sunaryo No. 37, Gawanan, Sukoharjo",
+    "icon": "hospital-symbol",
+    "color": "#B31312"
+  },
+  {
+    "nama": "RSUD Kabupaten Sukoharjo",
+    "jenis": "RS Umum",
+    "alamat": "Jl. Dr. Muwardi No. 71, Bulusari, Gayam, Sukoharjo",
+    "icon": "hospital-symbol",
+    "color": "#B31312"
+  }
+]
